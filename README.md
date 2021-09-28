@@ -49,7 +49,7 @@ Duplo clique no arquivo index.html
 
 ## ⚙ Funcionalidades
 
-- [ ]  Estrutura das cartas
+- [X]  Estrutura das cartas
 - [ ]  Estilo das cartas
 - [ ]  Animando as cartas
 - [ ]  Montando a tela de Game Over
