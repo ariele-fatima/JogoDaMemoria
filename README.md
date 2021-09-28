@@ -49,8 +49,8 @@ Duplo clique no arquivo index.html
 
 ## ⚙ Funcionalidades
 
-- [X]  Estrutura das cartas
-- [ ]  Estilo das cartas
+- [x]  Estrutura das cartas
+- [x]  Estilo das cartas
 - [ ]  Animando as cartas
 - [ ]  Montando a tela de Game Over
 - [ ]  Montando o estilo do tabuleiro
