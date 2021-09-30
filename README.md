@@ -55,7 +55,7 @@ Duplo clique no arquivo index.html
 - [x]  Montando a tela de Game Over
 - [x]  Montando o estilo do tabuleiro
 - [x]  Criando o modelo das cartas no jogo
-- [ ]  Embaralhando as cartas
+- [x]  Embaralhando as cartas
 - [ ]  Montando o tabuleiro
 - [ ]  Separando a View da Lógica
 - [ ]  Checando se formar par
