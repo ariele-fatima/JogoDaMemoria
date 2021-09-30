@@ -53,7 +53,7 @@ Duplo clique no arquivo index.html
 - [x]  Estilo das cartas
 - [x]  Animando as cartas
 - [x]  Montando a tela de Game Over
-- [ ]  Montando o estilo do tabuleiro
+- [x]  Montando o estilo do tabuleiro
 - [ ]  Criando o modelo das cartas no jogo
 - [ ]  Embaralhando as cartas
 - [ ]  Montando o tabuleiro
