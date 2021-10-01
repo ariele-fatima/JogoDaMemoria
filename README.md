@@ -58,7 +58,7 @@ Duplo clique no arquivo index.html
 - [x]  Embaralhando as cartas
 - [x]  Montando o tabuleiro
 - [x]  Separando a View da Lógica
-- [ ]  Checando se formar par
+- [x]  Checando se formar par
 - [ ]  Achando e corrigindo bugs
 - [ ]  Finalizando
 
