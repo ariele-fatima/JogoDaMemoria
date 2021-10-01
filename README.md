@@ -56,7 +56,7 @@ Duplo clique no arquivo index.html
 - [x]  Montando o estilo do tabuleiro
 - [x]  Criando o modelo das cartas no jogo
 - [x]  Embaralhando as cartas
-- [ ]  Montando o tabuleiro
+- [x]  Montando o tabuleiro
 - [ ]  Separando a View da Lógica
 - [ ]  Checando se formar par
 - [ ]  Achando e corrigindo bugs
