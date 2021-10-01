@@ -57,7 +57,7 @@ Duplo clique no arquivo index.html
 - [x]  Criando o modelo das cartas no jogo
 - [x]  Embaralhando as cartas
 - [x]  Montando o tabuleiro
-- [ ]  Separando a View da Lógica
+- [x]  Separando a View da Lógica
 - [ ]  Checando se formar par
 - [ ]  Achando e corrigindo bugs
 - [ ]  Finalizando
