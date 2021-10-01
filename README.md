@@ -59,7 +59,7 @@ Duplo clique no arquivo index.html
 - [x]  Montando o tabuleiro
 - [x]  Separando a View da Lógica
 - [x]  Checando se formar par
-- [ ]  Achando e corrigindo bugs
+- [x]  Achando e corrigindo bugs
 - [ ]  Finalizando
 
 ## 📝 Licença
