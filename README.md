@@ -21,11 +21,21 @@
 
 ## 💻 Sobre o projeto
 
-O projeto é inspirado no jogo da memória e foi feito no intuito de aplicar os conhecimentos adquiridos na linguagem Javascript.
+O projeto é inspirado no jogo da memória usando tecnologias de programação como tema e foi feito no intuito de aplicar os conhecimentos adquiridos na linguagem Javascript.
 
 
 
 ## 🎨 Demostração da Aplicação
+
+<p align="center">
+  <img alt="JogoDaMemoria" title="Jogando o jogo" src="./images/demo/Jogando.png" />
+  <br><br>
+  <img alt="JogoDaMemoria" title="Game Over" src="./images/demo/TelaGameOver.png" />
+</p>
+
+<p align="center">
+  :sparkles:<a align="center" href="https://ariele-fatima.github.io/JogoDaMemoria/">Acesse a aplicação clicando aqui</a>:sparkles:
+</p>
 
 ## 🚀 Como rodar a aplicação
 
@@ -49,18 +59,9 @@ Duplo clique no arquivo index.html
 
 ## ⚙ Funcionalidades
 
-- [x]  Estrutura das cartas
-- [x]  Estilo das cartas
-- [x]  Animando as cartas
-- [x]  Montando a tela de Game Over
-- [x]  Montando o estilo do tabuleiro
-- [x]  Criando o modelo das cartas no jogo
-- [x]  Embaralhando as cartas
-- [x]  Montando o tabuleiro
-- [x]  Separando a View da Lógica
-- [x]  Checando se formar par
-- [x]  Achando e corrigindo bugs
-- [ ]  Finalizando
+:heavy_check_mark: Animação ao selecionar uma carta
+:heavy_check_mark: Tela de Game Over
+:heavy_check_mark: Botão para jogar novamente ao finalizar o jogo
 
 ## 📝 Licença
 

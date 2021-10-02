@@ -3,6 +3,18 @@ let game = {
     lockMode: false,
     firstCard: null,
     secondCard: null,
+    cards: null,
+
+    techs: ['bootstrap',
+    'css',
+    'electron',
+    'firebase',
+    'html',
+    'javascript',
+    'jquery',
+    'mongo',
+    'node',
+    'react'],
 
     setCard: function(id){
         let card = this.cards.filter(card=>card.id === id)[0];
@@ -41,20 +53,11 @@ let game = {
         this.clearCards();
     },
 
-    techs: ['bootstrap',
-    'css',
-    'electron',
-    'firebase',
-    'html',
-    'javascript',
-    'jquery',
-    'mongo',
-    'node',
-    'react'],
+    checkGameOver: function(){
+        return this.cards.filter(card=>!card.flipped).length == 0
+    },
 
-    cards: null,
-
-     createCardsFromTechs: function () {
+    createCardsFromTechs: function () {
         this.cards = [];
         for(let tech of this.techs){
             this.cards.push(this.createPairFromTech(tech));
