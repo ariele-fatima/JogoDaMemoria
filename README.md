@@ -3,7 +3,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ariele-fatima/JogoDaMemoria?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/ariele-fatima/JogoDaMemoria?style=plastic)
 
-> Status do Projeto: :warning: Em desenvolvimento
+> Status do Projeto: :heavy_check_mark: Concluído
 
 
 ## Tópicos 
@@ -28,9 +28,9 @@ O projeto é inspirado no jogo da memória usando tecnologias de programação c
 ## 🎨 Demostração da Aplicação
 
 <p align="center">
-  <img alt="JogoDaMemoria" title="Jogando o jogo" src="./images/demo/Jogando.png" />
-  <br><br>
-  <img alt="JogoDaMemoria" title="Game Over" src="./images/demo/TelaGameOver.png" />
+  <img alt="JogoDaMemoria" title="Jogando o jogo" height="400" src="./assets/images/demo/Jogando.png" />
+  <br>
+  <img alt="JogoDaMemoria" title="Game Over" height="400" src="./assets/images/demo/TelaGameOver.png" />
 </p>
 
 <p align="center">
@@ -60,7 +60,9 @@ Duplo clique no arquivo index.html
 ## ⚙ Funcionalidades
 
 :heavy_check_mark: Animação ao selecionar uma carta
+
 :heavy_check_mark: Tela de Game Over
+
 :heavy_check_mark: Botão para jogar novamente ao finalizar o jogo
 
 ## 📝 Licença
